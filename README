@@ -1,0 +1,16 @@
+An attempt at a flightgear launcher written in python/Qt ala pyqt
+Peter "mash" Morgan - ac001 [at] daffodil [dot] uk [dot] com
+
+====Goals===
+
+Make it more of a central panel and helper during a flight eg on a twin screen or spare laptop
+
+ * The mpmap embedded to watch other and navaids
+ * Being able to browse aircraft and save configurations
+ * Being able to select airport/runway and save configurations
+ * Ability to select enviroment and save configurations
+ * Combine all the above to save a profile
+
+ * Potentially have a flightplan os  a list of fun locations, eg Madeira or Courchevel
+
+If it gets real then convert application to c++/Qt so it easy for x-platform ie windoze
